@@ -1,16 +1,14 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Events"
+permalink: /events/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
 
-{% include base_path %}
+* Conducting Research with LGBTQ+ People | SGSS : June 2021
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+* What will the census tell us?: Working with and representing LGBTQ+ people  | University of Brighton’s Centre for Transforming Sexuality and Gender : 24TH February 2021 
+
+* Conducting Research with LGBTQ+ People Using Online Resources | SGSSS : 12th November 2020
+

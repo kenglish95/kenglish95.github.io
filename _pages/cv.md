@@ -14,15 +14,6 @@ redirect_from:
 * Scottish Human Rights Commission (2020) [`The Open Budget Survey 2019 results for Scotland’s 2017/18 Budget`](#https://www.scottishhumanrights.com/media/2014/scotland-2019-obi-report-vfinal.pdf0)
 
 
-<h3>Events</h3>
-
-* Conducting Research with LGBTQ+ People | SGSS :June 2021
-
-* What will the census tell us?: Working with and representing LGBTQ+ people  | University of Brighton’s Centre for Transforming Sexuality and Gender: 24TH February 2021 
-
-* Conducting Research with LGBTQ+ People Using Online Resources | SGSSS : 12th November 2020
-
-
 
 <h3>Work Experince</h3>
 
