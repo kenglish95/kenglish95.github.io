@@ -19,7 +19,7 @@ redirect_from:
 
 
                 
-2020-on going&nbsp;|Q-Step Graduate Teaching Assistant: University of Glasgow
+2020-on going    |Q-Step Graduate Teaching Assistant: University of Glasgow
 -----------------|---------------------------------------------------------------------------
 &nbsp;           | The undergraduate Q-Step program provides social science students with advanced                            quantitative methods training. My main responsibility as a GTA us running supervised labs                   over Zoom focused on using R to run a variety of quantitative tests. I also troubleshoot                    any issues students are having over email or zoom and provide feedback on their                             assessments.
 
