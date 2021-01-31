@@ -11,7 +11,7 @@ redirect_from:
 
 * Livingston, M. , McArthur, D.,  Hong, J. and  English, K.  (2020) [`Predicting cycling volumes using crowdsourced activity data`](https://journals.sagepub.com/doi/full/10.1177/2399808320925822), Environment and Planning B: Urban Analytics and City Science`
 
-* Scottish Human Rights Commission (2020) [`The Open Budget Survey 2019 results for Scotland’s 2017/18 Budget`](https://www.scottishhumanrights.com/media/2014/scotland-2019-obi-report-vfinal.pdf0)
+* Scottish Human Rights Commission (2020) [`The Open Budget Survey 2019 results for Scotland’s 2017/18 Budget`](https://www.scottishhumanrights.com/media/2014/scotland-2019-obi-report-vfinal.pdf)
 
 
 
