@@ -21,18 +21,17 @@ redirect_from:
                 
 2020-on going    |Q-Step Graduate Teaching Assistant: University of Glasgow
 -----------------|---------------------------------------------------------------------------
-&nbsp;           | The undergraduate Q-Step program provides social science students with advanced quantitative methods training. My main responsibility as a GTA us running supervised labs over Zoom focused on using R to run a variety of quantitative tests. I also troubleshoot any issues students are having over email or zoom and provide feedback on their assessments
+&nbsp;           | The undergraduate Q-Step program provides social science students with advanced                            quantitative methods training. My main responsibility as a GTA us running supervised labs                   over Zoom focused on using R to run a variety of quantitative tests. I also troubleshoot                    any issues students are having over email or zoom and provide feedback on their                             assessments.
 
 
 Nov 2018-Feb 2019|Consultant: Scottish Human Rights Commission 
 -----------------|---------------------------------------------------------------------------
-&nbsp;           |As a consultant for the SHRC I was tasked with refining and applying the Commission’s Quality of Participation indicator for the national budget process. 
+&nbsp;           |As a consultant for the SHRC I was tasked with refining and applying the Commission’s                       Quality of Participation indicator for the national budget process. 
 
 Jul 2018-Nov 2018|Open Budget Survey Intern: Scottish Human Rights Commission
 -----------------|---------------------------------------------------------------------------
-&nbsp;           |As the Open Budget Survey intern, I was responsible for carrying out a small scale, mixed methods research project, designed to develop human rights indicators that can be used comparatively, globally. My three main responsibilities were: exploring the feasibility of Scotland's involvement in the OBS, 
-taking lived experience and translating this into indicators that can then be measured and
-providing indicators that can be peer reviewed by international allies
+&nbsp;           |As the Open Budget Survey intern, I was responsible for carrying out a small scale, mixed                   methods research project, designed to develop human rights indicators that can be used                      comparatively, globally. My three main responsibilities were: exploring the feasibility of                   Scotland's involvement in the OBS, taking lived experience and translating this into                        indicators that can then be measured and
+                  providing indicators that can be peer reviewed by international allies
 
 Nov 2016-Jun 2018|Data Intern: University of Glasgow
 -----------------|---------------------------------------------------------------------------
