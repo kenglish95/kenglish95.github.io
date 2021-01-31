@@ -19,31 +19,29 @@ redirect_from:
 
 
                 
-2020-on going    |Q-Step Graduate Teaching Assistant: University of Glasgow
+2020-on going&nbsp;|Q-Step Graduate Teaching Assistant: University of Glasgow
 -----------------|---------------------------------------------------------------------------
 &nbsp;           | The undergraduate Q-Step program provides social science students with advanced                            quantitative methods training. My main responsibility as a GTA us running supervised labs                   over Zoom focused on using R to run a variety of quantitative tests. I also troubleshoot                    any issues students are having over email or zoom and provide feedback on their                             assessments.
 
-
-Nov 2018-Feb 2019|Consultant: Scottish Human Rights Commission 
+Nov2018-Feb2019|Consultant: Scottish Human Rights Commission 
 -----------------|---------------------------------------------------------------------------
 &nbsp;           |As a consultant for the SHRC I was tasked with refining and applying the Commission’s                       Quality of Participation indicator for the national budget process. 
 
-Jul 2018-Nov 2018|Open Budget Survey Intern: Scottish Human Rights Commission
+Jul2018-Nov2018|Open Budget Survey Intern: Scottish Human Rights Commission
 -----------------|---------------------------------------------------------------------------
-&nbsp;           |As the Open Budget Survey intern, I was responsible for carrying out a small scale, mixed                   methods research project, designed to develop human rights indicators that can be used                      comparatively, globally. My three main responsibilities were: exploring the feasibility of                   Scotland's involvement in the OBS, taking lived experience and translating this into                        indicators that can then be measured and
-                  providing indicators that can be peer reviewed by international allies
+&nbsp;           |As the Open Budget Survey intern, I was responsible for carrying out a small scale, mixed                   methods research project, designed to develop human rights indicators that can be used                      comparatively, globally. 
 
-Nov 2016-Jun 2018|Data Intern: University of Glasgow
+Nov2016-Jun2018|Data Intern: University of Glasgow
 -----------------|---------------------------------------------------------------------------
 &nbsp;           |As an intern with the social science department it has been my responsibility to handle all the applications for the Glasgow Go Global award. I also assist in answering student questions and feedback any issues to the team working on the award and advise on the best steps going forward particularly in relation to data management.
 
-Mar 2018-Mar 2018|Quantitative Data Handling Contractor: Scottish Human Rights Commission
+Mar2018-Mar2018|Quantitative Data Handling Contractor: Scottish Human Rights Commission
 -----------------|---------------------------------------------------------------------------
-&nbsp;           |I won the opportunity to co-write a report based on survey data gathered by the Scottish Human Rights Commission about perceptions on human rights in Scotland. This opportunity gave me the chance to develop my ability to present quantitative data in a clear and accessible manner, emphasising the key findings. 
+&nbsp;           |I won the opportunity to co-write a report based on survey data gathered by the Scottish                    Human Rights Commission about perceptions on human rights in Scotland. This opportunity                     gave me the chance to develop my ability to present quantitative data in a clear and                        accessible manner, emphasising the key findings. 
 
-Sep 2017-Mar 2018|Research Intern: University of Glasgow
+Sep2017-Mar2018|Research Intern: University of Glasgow
 -----------------|---------------------------------------------------------------------------
-&nbsp;           |Responsible for carrying out qualitative research into why there is such a significant gender imbalance in the Primary Education workforce. My responsibilities include gaining ethical approval for this research, carrying out focus groups and interviews and analysing and reporting on the results of said focus groups and interviews.
+&nbsp;           |Responsible for carrying out qualitative research into why there is such a significant                      gender imbalance in the Primary Education workforce. My responsibilities include gaining                    ethical approval for this research, carrying out focus groups and interviews and analysing                   and reporting on the results of said focus groups and interviews.
 
 Jul 2017-Sep 2017|Q-Step Education Intern: University of Glasgow
 -----------------|---------------------------------------------------------------------------
