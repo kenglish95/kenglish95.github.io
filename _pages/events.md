@@ -17,7 +17,7 @@ June 2021        |Conducting Research with LGBTQ+ People: SGSSS
                   
 12th Nov 2020    |Conducting Research with LGBTQ+ People Using Online Resources: SGSSS
 -----------------|---------------------------------------------------------------------------
-&nbsp;           | Having been awarded the student led training fund I am producing online training on conducting research with LGBTQ+ people. The resources included a video presentation, resource list and a participant Q & A and reflection session over Zoom. All resources produced can be found [`here`](#https://lgbtqsocsci.weebly.com/) 
+&nbsp;           | Having been awarded the student led training fund I am producing online training on conducting research with LGBTQ+ people. The resources included a video presentation, resource list and a participant Q & A and reflection session over Zoom. All resources produced can be found [`here`](https://lgbtqsocsci.weebly.com/) 
 
 24th July 2020   |Improving how population surveys represent, sex,gender and seuxality in the UK: Glasgow ReproducibiliTea
 -----------------|---------------------------------------------------------------------------
