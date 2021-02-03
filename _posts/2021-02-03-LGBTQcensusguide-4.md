@@ -9,5 +9,6 @@ tags:
 ---
 
 |||
----------------------------|----------------------------
-images/censusguide1.png             |  Solarized Ocean
+------------------------------|------------------------------|------------------------------
+![](/images/censusguide1.png) |![](/images/censusguide2.png) |![](/images/censusguide3.png)
+![](/images/censusguide4.png) |![](/images/censusguide5.png) |![](/images/censusguide6.png)
