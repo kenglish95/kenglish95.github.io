@@ -8,3 +8,6 @@ tags:
   - sex gender and sexuality 
 ---
 
+|||
+---------------------------|----------------------------
+images/censusguide1.png             |  Solarized Ocean
