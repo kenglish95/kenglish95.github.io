@@ -7,6 +7,6 @@ redirect_from:
   - /resume
 ---
 
-[Download CV here](http://kenglish95.github.io/files/CV.pdf)
+[View CV here](http://kenglish95.github.io/files/CV.pdf)
 <embed src="{{ kenglish95.github.io }}/files/CV.pdf" width="600" height="700" type='application/pdf'>
 
