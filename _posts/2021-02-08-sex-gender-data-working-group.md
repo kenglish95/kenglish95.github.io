@@ -1,6 +1,6 @@
 ---
 title: 'Sex and Gender Data Working Group Gudiance Response'
-date: 2012-08-14
+date: 2021-02-08
 permalink: /posts/2021/02/sex-gender-data-working-group/
 tags:
   - data activism 
