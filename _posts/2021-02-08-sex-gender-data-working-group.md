@@ -14,8 +14,7 @@ The working group is accepting feedback on the guidance until the 12th of Februa
 
 I co-produced the following letter with Dr Kevin Guyan, which outlines our views on the strengths and weaknesses of the Working Group’s draft guidance: 
 
-[View our feedback here](http://kenglish95.github.io/files/CV.pdf)
-<embed src="{{ kenglish95.github.io }}/files/Sex_Gender_Data_Working_Group_Letter.pdf" width="600" height="700" type='application/pdf'>
+[View our feedback here](http://kenglish95.github.io/files/Sex_Gender_Data_Working_Group_Letter.pdf)
 
 
 <embed src="{{ kenglish95.github.io }}/files/Sex_Gender_Data_Working_Group_Letter.pdf" width="600" height="700" type='application/pdf'>
