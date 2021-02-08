@@ -8,7 +8,7 @@ tags:
   - sex gender and sexuality 
 ---
 
-In 2019 the Scottish Government asked the Chief Statistician to convene a Working Group to explore the collection, disaggregation and use of data on sex and gender. In December, the Working Group published draft guidance for public bodies on the collection of sex and gender data. The guidance seeks to standardise a diversity of data collection approaches in Scotland and is generally strong in terms of iterating that researchers should ask questions that will return the data they require and ensuring practices are inclusive to maximise the number of people who can participate in data collection activities.
+In 2019 the Scottish Government asked the Chief Statistician to convene a Working Group to explore the collection, disaggregation and use of data on sex and gender. In December, the Working Group published [`draft guidance`](https://www.gov.scot/publications/sex-and-gender-in-data-working-group---collecting-data-on-sex-and-gender-draft-guidance-for-feedback/) for public bodies on the collection of sex and gender data. The guidance seeks to standardise a diversity of data collection approaches in Scotland and is generally strong in terms of iterating that researchers should ask questions that will return the data they require and ensuring practices are inclusive to maximise the number of people who can participate in data collection activities.
 
 The working group is accepting feedback on the guidance until the 12th of February. I would strongly encourage anyone with quantitative data expertise, particularly that relating to sex, gender and sexuality demographics, provide feedback to the working group.
 
