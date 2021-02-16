@@ -6,9 +6,7 @@ tags:
   - LGBTQ+
   - Census 
   - sex gender and sexuality 
-  - Trans
-  - Non-binary 
-  - Data users
+  
 ---
 
 ![](/images/sex_gudiance.png "Trans people, data users & the sex question guidance")
