@@ -21,7 +21,6 @@ This means that trans women tick female and trans men tick male (no accurate rep
 
 [` “If you are considering how to answer, use the sex recorded on one of your legal documents such as a birth certificate, Gender Recognition Certificate, or passport.” `](https://www.ons.gov.uk/census/censustransformationprogramme/questiondevelopment/genderidentity/census2021finalguidanceforthequestionwhatisyoursex) 
 
-
 	If followed this guidance would change how people who don’t identify with their sex registered at birth respond to the sex question. 
 	
 ### How this impacts trans people
@@ -44,4 +43,5 @@ Respond to the census but ignore the sex question guidance. Respond based on how
 
 ### Advice to data users 
 To fellow data users if you are concerned about the impact this may have on the quality of the data there is two things to keep in mind. First, the 2011 data was based on lived sex guidance and we used without any issue. Prior to that there was no guidance at all, which means we don’t know how trans people responded. Treat the data from this year’s census with the same pinch of salt you should have been treating previous years. Second, why on earth would you want people to be providing data that has little to no relevance to how they live and that they are unwilling to provide. Have a word with yourself if you think there is anything useful or ethical about that type of data. 
+
 It’s my personal view that if the guidance had remained the same and ONS had been clear about that further in advance campaigning could have occurred to ensure that most trans people respond based on how they live. This would have resulted in accurate and useful data rather than the needlessly limited data that we will end up with. 
