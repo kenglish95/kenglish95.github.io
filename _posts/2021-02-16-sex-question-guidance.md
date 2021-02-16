@@ -19,7 +19,7 @@ This means that trans women tick female and trans men tick male (no accurate rep
 
 [` “If you are considering how to answer, use the sex recorded on one of your legal documents such as a birth certificate, Gender Recognition Certificate, or passport.” `](https://www.ons.gov.uk/census/censustransformationprogramme/questiondevelopment/genderidentity/census2021finalguidanceforthequestionwhatisyoursex) 
 
-	If followed this guidance would change how people who don’t identify with their sex registered at birth respond to the sex question. 
+If followed this guidance would change how people who don’t identify with their sex registered at birth respond to the sex question. 
 	
 ### How this impacts trans people
 1.	It makes responding to the census more confusing given that some people will have passports and birth certificates that do not match. 
