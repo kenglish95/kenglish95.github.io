@@ -11,8 +11,12 @@ I am currently undertaking my PhD in Sociology researching how differences of se
 
 ### Posts relating to my reserach:
 
+[`Survey: Representing differences of sex, gender and sexuality in UK population surveys`](https://kenglish95.github.io/posts/2021/06/survey)  
+The survey that features as part of the third and final strand of my research. Aimed at LGBTI+ people ages 16+ in the UK.
+
 [`This Queer Counts: A 5 minute zine`](https://kenglish95.github.io/posts/2021/02/This_Queer_Counts)  
 This zine touches on ways I have personally been overlooked or misrepresented by surveys. These issues formed one of the key motivations for my research.
+
 
 
 
