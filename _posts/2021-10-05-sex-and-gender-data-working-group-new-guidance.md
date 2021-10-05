@@ -18,7 +18,7 @@ On the 22nd of September, the Scottish Government's Sex & Gender Data Working Gr
 
 Although the guidance sets out some rough definitions of sex, gender and what it means to be transgender it identifies that these concepts don't have commonly agreed-upon definitions. Recognizing this they go on to make the important point that:
 
-	"For the overwhelming majority of people, all the factors involved in determining sex and gender identity are aligned. For some people, there are differences. People will not necessarily answer a question about their sex in exactly the same way: most will need no reflection at all, some will think about their biology, some their legal sex and some their self-defined sex."(p8)
+"For the overwhelming majority of people, all the factors involved in determining sex and gender identity are aligned. For some people, there are differences. People will not necessarily answer a question about their sex in exactly the same way: most will need no reflection at all, some will think about their biology, some their legal sex and some their self-defined sex."(p8)
 
 This highlights two key points. First, you can't take for granted that everyone is interpreting sex questions the same way. Second, for people who identify with their sex assigned at birth (cisgender people) sex and gender are always conflated. If a cis person provides data on one they are providing data on the other. This means that the issue of what we wish to represent with sex/gender questions is primarily about the representation of trans people.
 
@@ -33,13 +33,13 @@ Both versions of the guidance include the concept of "legal sex" in reference to
 
 Based on statements from the Equality and Human Rights Commission(EHRC) the guidance claims that:
 
-	"in UK law sex is understood as binary and a person’s legal sex is determined by what is recorded on a person’s birth certificate. A trans person can change their legal sex by obtaining a GRC and a trans person who does not obtain a GRC retains the (legal) sex recorded on their birth certificate for legal purposes."(p7)          
+"in UK law sex is understood as binary and a person’s legal sex is determined by what is recorded on a person’s birth certificate. A trans person can change their legal sex by obtaining a GRC and a trans person who does not obtain a GRC retains the (legal) sex recorded on their birth certificate for legal purposes."(p7)          
 
 This is a contested point in law. In their recent paper [Collier & Cowan(2021)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3908495)state there is no one legal definition of sex or gender in UK law. They explain that the concepts of sex and gender are not defined in either the Gender Recognition Act(2004) or the Equality Act(2010).           
 
 When considering conceptualisations of sex and gender it's important to consider what that information could be used for. What purpose would knowing the sex according to someone's birth certificate/GRC serve? Keeping in mind that this guidance is primarily about the representation of trans people this is a question of, what purpose would counting comparable trans differently people based on if they have a GRC or not serve? The [EHRC guidance](https://www.equalityhumanrights.com/en/our-work/news/our-statement-sex-and-gender-reassignment-legal-protections-and-language) cited by the Sex and Gender Data Working Group said:
 	
-	"a trans person is protected from sex discrimination on the basis of their legal sex. This means that a trans woman who does not hold a GRC and is therefore legally male would be treated as male for the purposes of the sex discrimination provisions, and a trans woman with a GRC would be treated as female. The sex discrimination exceptions in the Equality Act therefore apply differently to a trans person with a GRC or without a GRC."          
+"a trans person is protected from sex discrimination on the basis of their legal sex. This means that a trans woman who does not hold a GRC and is therefore legally male would be treated as male for the purposes of the sex discrimination provisions, and a trans woman with a GRC would be treated as female. The sex discrimination exceptions in the Equality Act therefore apply differently to a trans person with a GRC or without a GRC."          
 
 As stated previously The Equality Act (2010), which pertains to sex discrimination, does not define the concept of sex. This means that this stance from the EHRC is not specifically stated in the legislation. When providing [evidence on the reform of the Gender Recognition Act Cowan](https://committees.parliament.uk/writtenevidence/17705/pdf/) also drew attention to the fact that regardless of how sex is defined the Equality Act(2010), everyone is protected against discrimination on the basis of perception. So if you are discriminated against due to how someone perceives your sex then you are protected by the Equality Act regardless of what your birth certificate states.
 
@@ -51,7 +51,7 @@ The guidance mostly promotes questions on lived sex/gender as well as gender mod
 
 As previously established legal sex had very little value as a concept for data collection. However, despite this the guidance states that:
 
-	"there may be a small number of circumstances when collecting data on self-defined sex only could contribute to the failure of a public body to comply with the PSED"(p11)
+"there may be a small number of circumstances when collecting data on self-defined sex only could contribute to the failure of a public body to comply with the PSED"(p11)
 
 The PSED is the Public Sector Equality Duty, which requires public bodies to publish reports on progress they have made relating to equality outcomes. The PSED is based on the Equality Act (2010), which as stated previously does not mention legal sex. Given this it doesn't seem like public bodies would be in breach of the PSED if they did not record legal sex. If the Sex and Gender Data Working Group think that legal sex data is required in certain circumstances they should be able to explicitly state what these circumstances might be.
 
@@ -75,7 +75,7 @@ When public bodies publish information on who engaged with their services it cou
 
 My priorities in terms of data collection by public bodies are that privacy is protected and accurate data is produced which will enable identification of what groups engage with services and their potential needs. This requires questions that clearly state why they are being asked, what the information will be used for and the ability to withhold information. It also requires that these questions make space for reality. Putting people into binary boxes just because it's easier doesn't enable better service provision it just produces inaccurate data, continuing to render some service users invisible. Privacy and useful data are my priorities but there is also the matter of dignity and respect. One of the underpinning statistical principles of the guidance was:
 
-	"Data collection needs to be carried out in a way that treats people with dignity and respect"(p6)
+"Data collection needs to be carried out in a way that treats people with dignity and respect"(p6)
 
 Asking questions about "legal sex", which doesn't exist in law and if answered as  intended would mean many trans people misgendering themselves is not treating them with dignity and respect. Nor is neglecting to represent non-binary people. The core issue with these questions is they produce data, which for many trans people can't be used to meet their needs. That being said if your going to state a key principle of your guidance is dignity and respect legal and/or binary sex questions are not the way to go about it.
 
