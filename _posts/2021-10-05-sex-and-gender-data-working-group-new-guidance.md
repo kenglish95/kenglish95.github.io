@@ -85,19 +85,19 @@ Asking questions about "legal sex", which doesn't exist in law and if answered a
 
 Collier, B. & Cowan, S. 2021. Queer Conflicts, Concept Capture and Category Co-Option: The Importance of Context in the State Collection and Recording of Sex / Gender Data.
 
-Cowan, S. 2020. _Response to Women and Equalities Committee Consultation on Reform of the Gender Recognition Act_. [Online]. Available from: [https://committees.parliament.uk/writtenevidence/17705/pdf/](https://committees.parliament.uk/writtenevidence/17705/pdf/).
+Cowan, S. 2020. _Response to Women and Equalities Committee Consultation on Reform of the Gender Recognition Act_. [Online]. Available from: [link](https://committees.parliament.uk/writtenevidence/17705/pdf/).
 
-EHRC. 2018. _Our statement on sex and gender reassignment: legal protections and language_ [Online]. Available: [https://www.equalityhumanrights.com/en/our-work/news/our-statement-sex-and-gender-reassignment-legal-protections-and-language](https://www.equalityhumanrights.com/en/our-work/news/our-statement-sex-and-gender-reassignment-legal-protections-and-language) [Accessed].
+EHRC. 2018. _Our statement on sex and gender reassignment: legal protections and language_ [Online]. Available: [link](https://www.equalityhumanrights.com/en/our-work/news/our-statement-sex-and-gender-reassignment-legal-protections-and-language) [Accessed].
 
-_Equality Act_ 2010 [Online]. Available from: [https://www.legislation.gov.uk/ukpga/2010/15/contents](https://www.legislation.gov.uk/ukpga/2010/15/contents).
+_Equality Act_ 2010 [Online]. Available from: [link](https://www.legislation.gov.uk/ukpga/2010/15/contents).
 
-_Gender Recognition Act_ 2004 [Online]. Available from: [https://www.legislation.gov.uk/ukpga/2004/7/contents](https://www.legislation.gov.uk/ukpga/2004/7/contents).
+_Gender Recognition Act_ 2004 [Online]. Available from: [link](https://www.legislation.gov.uk/ukpga/2004/7/contents).
 
-Guyan, K. & English, K. 2021. Sex and Gender in Data Working Group – Response to Draft Guidance.
+Guyan, K. & English, K. 2021. Sex and Gender in Data Working Group – Response to Draft Guidance.[Online]. Available from:[link](https://kenglish95.github.io/posts/2021/02/sex-gender-data-working-group/)
 
-Halliday, R. 2020. _Working group about a person’s sex and gender Data collection and publication – draft guidance_. [Online]. Available from: [https://www.gov.scot/publications/sex-and-gender-in-data-working-group---collecting-data-on-sex-and-gender-draft-guidance-for-feedback/.January](https://www.gov.scot/publications/sex-and-gender-in-data-working-group---collecting-data-on-sex-and-gender-draft-guidance-for-feedback/.January) 2021
+Halliday, R. 2020. _Working group about a person’s sex and gender Data collection and publication – draft guidance_. [Online]. Available from: [link](https://www.gov.scot/publications/sex-and-gender-in-data-working-group---collecting-data-on-sex-and-gender-draft-guidance-for-feedback/.January) 2021
 
-Halliday, R. 2021. _Data collection and publication guidance: Sex, Gender Identity, Trans Status_. [Online]. Available from: [https://www.gov.scot/binaries/content/documents/govscot/publications/advice-and-guidance/2021/09/data-collection-publication-guidance-sex-gender-identity-trans-status/documents/data-collection-publication-guidance-sex-gender-identity-trans-status/data-collection-publication-guidance-sex-gender-identity-trans-status/govscot%3Adocument/data-collection-publication-guidance-sex-gender-identity-trans-status.pdf](https://www.gov.scot/binaries/content/documents/govscot/publications/advice-and-guidance/2021/09/data-collection-publication-guidance-sex-gender-identity-trans-status/documents/data-collection-publication-guidance-sex-gender-identity-trans-status/data-collection-publication-guidance-sex-gender-identity-trans-status/govscot%3Adocument/data-collection-publication-guidance-sex-gender-identity-trans-status.pdf).
+Halliday, R. 2021. _Data collection and publication guidance: Sex, Gender Identity, Trans Status_. [Online]. Available from: [link](https://www.gov.scot/binaries/content/documents/govscot/publications/advice-and-guidance/2021/09/data-collection-publication-guidance-sex-gender-identity-trans-status/documents/data-collection-publication-guidance-sex-gender-identity-trans-status/data-collection-publication-guidance-sex-gender-identity-trans-status/govscot%3Adocument/data-collection-publication-guidance-sex-gender-identity-trans-status.pdf).
 
 
 
