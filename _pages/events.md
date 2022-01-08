@@ -6,9 +6,15 @@ author_profile: true
 ---
 
 ### <span style="color:#FF00CC ">Will the digital ever be non-binary? The future of trans (data) rights: Computers, Privacy & Data Protection (CPDP) </span>
-###### 28th January 2022
+###### May or June 2022
 
 A panel on data representation and privacy for trans people. I will be sharing insights from my work relating to how non-binary people and trans people more broadly can be represented in data. 
+
+### <span style="color:#FF00CC ">Queer Data Launch: Data as a tool for social justice : Lighthouse Bookshop Edinburgh</span>
+###### 20th January 2022, 19:00
+
+Launch event for Kevin Guyan's fantastic book, Queer Data. I've been lucky enough to read some of the book and I'm sure it's going to be an outstanding contribution to the discussions surrounding queer data. I am delighted to have been invited to participate on the panel for this launch event. The link to which can be found[`here`](https://lighthousebookshop.com/events/queer-data-launch-data-as-a-tool-for-social-justice)  
+
 
 ### <span style="color:#FF00CC ">Reframing census debates: Essential criteria for representing trans people:Beyond the binary variable conference: FemQuants </span>
 ###### 6th September 2021  
