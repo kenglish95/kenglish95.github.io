@@ -36,6 +36,7 @@ The workshop will be split into two, with the first half focusing on the 2021/20
 
 ### <span style="color:#FF00CC ">Conducting Research with LGBTQ+ People Using Online Resources: SGSSS   </span>
 ###### 2th November 2020  
+
 Having been awarded the student led training fund I am producing online training on conducting research with LGBTQ+ people. The resources included a video presentation, resource list and a participant Q & A and reflection session over Zoom. All resources produced can be found [`here`](https://lgbtqsocsci.weebly.com/) 
 
 ### <span style="color:#FF00CC ">Improving how population surveys represent, sex,gender and seuxality in the UK: Glasgow ReproducibiliTea </span>
