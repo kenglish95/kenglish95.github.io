@@ -82,7 +82,6 @@ Asking questions about "legal sex", which doesn't exist in law and if answered a
 ## References  
  
            
-
 Collier, B. & Cowan, S. 2021. Queer Conflicts, Concept Capture and Category Co-Option: The Importance of Context in the State Collection and Recording of Sex / Gender Data.
 
 Cowan, S. 2020. _Response to Women and Equalities Committee Consultation on Reform of the Gender Recognition Act_. [Online]. Available from: [link](https://committees.parliament.uk/writtenevidence/17705/pdf/).

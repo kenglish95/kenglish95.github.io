@@ -32,7 +32,7 @@ If followed this guidance would change how people who don’t identify with thei
 
 
 ### How this impacts data users 
-1. [`NRS`](https://www.scotlandscensus.gov.uk/documents/Scotland's%20Census%202021%20-%20%20Sex%20question%20recommendation%20report%20(2).pdf)  found that people rarely engage with this type of guidance. Even among trans and non-binary people only 25% read sex question guidance. Given this data users will have no strong basis to assume that people responded based on their documentation. Meaning that the guidance is useless. 
+1. [`NRS`](https://www.scotlandscensus.gov.uk/documents/sex-question-recommendation-report/html/)  found that people rarely engage with this type of guidance. Even among trans and non-binary people only 25% read sex question guidance. Given this data users will have no strong basis to assume that people responded based on their documentation. Meaning that the guidance is useless. 
 
 2.	As stated previously if the guidance was to be followed by all respondents data users still wouldn’t be able to tell which trans people had accurate documentation and therefore responded based on their identity and which did not. This can not/should not be checked at any time due to it being a breach of privacy and the principles of self-completed data collection. 
 
