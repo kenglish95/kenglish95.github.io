@@ -10,7 +10,9 @@ tags:
 The 20th of March 2022 is census day in Scotland. This census year is of particular importance to the LGBTQ+ community. Here I provide some information for LGBTQ+ people filling in the census. As a non-binary person, I'm disappointed by the binary sex question. However, that makes the optional text box in the "trans status or trans history" question more important. If your trans and feel comfortable doing so please make use of that box so our community is represented accurately.
 
 ![](/Users/kirstieenglish/Documents/Github/kenglish95.github.io/images/1.png "LGBTQ+ Census Guide 2022")
+
 ![](/Users/kirstieenglish/Documents/Github/kenglish95.github.io/images/2.png "Why does the 2022 census matter? 1.This census will provide the most accurate estimation of the LGBTQ+ population in the UK so far 2.It can help us understand the demographics of our community 3.Census data can be used to highlight inequalities 4.Census data informs policy 5.Having more data on our community can help LGBTQ+ groups cater to our needs")
+
 ![](/Users/kirstieenglish/Documents/Github/kenglish95.github.io/images/3.png "How does it work? Between the end of February 2022 and March 20th your household will receive a letter with instructions for taking part.One person in the household usually fills in the census for everyone. If you do not wish for the people you live with to see your responses you can request an individual form. Any reponses provided on an individual form will overide responses about you on your household form The letter will include information on how to request an individual or paper copy online or over the phone Your information will be kept private.All census data is anonymised  for 100 years")
 
 ![](/Users/kirstieenglish/Documents/Github/kenglish95.github.io/images/4.png "The sex question This is the only mandatory gender or sexuality question. This means that on the online census you won't be able to skip it.The aim of this question is to understand how many men or women there are in the UK. Meaning if you are a trans man you should select male and if you are a trans woman you should select female. It is unknown what guidance will accompany this question. However, even if the guidance states that it is asking about legal sex at no point will anyone check if you have a GRC or ask to see your birth certificate.") 
@@ -19,7 +21,7 @@ The 20th of March 2022 is census day in Scotland. This census year is of particu
 
 ![](/Users/kirstieenglish/Documents/Github/kenglish95.github.io/images/6.png "The sexual orientation question This is for people ages 16 and over. It is an optional question meaning it can be skipped on the online and paper forms.If you do not feel represented by the options provided please make use of the write in box. You might use this to state that you are:Asexual Aromantic PansexualPolyamorous QueerQuestioningSomeone that doesn't identify ")
 
-###The legal case over the census 
+### The legal case over the census 
 
 On the 2nd of February the Court of Sessions in Edinburgh heard the case seeking to change the sex question guidance in the 2022 Scottish census. The current guidance, much like the guidance in the 2011 UK censuses, is “lived sex” guidance meaning it recommends people respond based on how they live. Therefor trans men select male and trans women select female. The case wishes to change to “legal” or “documented sex” guidance which would state that you respond based on your birth certificate. If following this guidance, only trans people with GRCs would respond based on how they are born while other comparable trans people misgender themselves. 
 
