@@ -5,6 +5,11 @@ permalink: /events/
 author_profile: true
 ---
 
+
+### <span style="color:#FF00CC "> LGBTQ Data Summit: University of Glasgow </span>
+###### June 23rd 2022
+
+
 ### <span style="color:#FF00CC ">Will the digital ever be non-binary? The future of trans (data) rights: Computers, Privacy & Data Protection (CPDP) </span>
 ###### May 25th 2022
 
