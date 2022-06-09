@@ -20,7 +20,7 @@ More information can be found [`here`](https://mtgconference.wordpress.com)
 ### <span style="color:#FF00CC ">Will the digital ever be non-binary? The future of trans (data) rights: Computers, Privacy & Data Protection (CPDP) </span>
 ###### May 25th 2022
 
-A panel on data representation and privacy for trans people. I will be sharing insights from my work relating to how non-binary people and trans people more broadly can be represented in data. 
+A panel on data representation and privacy for trans people. I will be sharing insights from my work relating to how non-binary people and trans people more broadly can be represented in data. Watch panel [`here`](https://youtu.be/veSC4E2vBMI). 
 
 ### <span style="color:#FF00CC ">Queer Data Launch: Data as a tool for social justice : Lighthouse Bookshop Edinburgh</span>
 ###### 20th January 2022, 19:00
