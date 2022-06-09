@@ -5,7 +5,6 @@ permalink: /events/
 author_profile: true
 ---
 
-
 ### <span style="color:#FF00CC "> Binary barriers: Representing trans & gender diverse populations in censuses & other population surveys: Mind the Gap Conference </span>
 ###### July 30th-31st 2022
 
@@ -16,6 +15,8 @@ More information can be found [`here`](https://mtgconference.wordpress.com)
 ### <span style="color:#FF00CC "> LGBTQ Data Summit: University of Glasgow </span>
 ###### June 23rd 2022
 
+Where do we go from here? The collection, analysis and use of LGBTQ data in Scotland. I will be presenting along side Roger Halliday (Research Data Scotland),
+Sharon Cowan and Ben Collier (University of Edinburgh), Vic Valentine (Equality Network/Scottish Trans) & kevin Guyan (University of Glasgow). 
 
 ### <span style="color:#FF00CC ">Will the digital ever be non-binary? The future of trans (data) rights: Computers, Privacy & Data Protection (CPDP) </span>
 ###### May 25th 2022
