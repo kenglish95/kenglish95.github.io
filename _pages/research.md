@@ -11,6 +11,10 @@ I am currently undertaking my PhD in Sociology researching how differences of se
 
 ### Posts relating to my reserach:
 
+[T.E.M.P.S Question Design Standards](https://kenglish95.github.io/posts/2022/06/TEMPS)
+
+Introductory standars for designing survey questions on sex,gender and sexuality based on my research.
+
 [`Survey: Representing differences of sex, gender and sexuality in UK population surveys`](https://kenglish95.github.io/posts/2021/06/survey)  
 The survey that features as part of the third and final strand of my research. Aimed at LGBTI+ people ages 16+ in the UK.
 
