@@ -5,7 +5,7 @@ permalink: /events/
 author_profile: true
 ---
 
-### <span style="color:#FF00CC "> Faciliator for the in conversation with the Deans panel at the CoSS Connections event: University of Glasgow </span>
+### <span style="color:#FF00CC "> Facilitator for the in conversation with the Deans panel at the CoSS Connections event: University of Glasgow </span>
 ###### January 2025
 
 Ending an exciting day of networking within the College of Social Sciences I facilitated a conversation between four of the colleges Deans.
