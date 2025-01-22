@@ -5,6 +5,32 @@ permalink: /events/
 author_profile: true
 ---
 
+### <span style="color:#FF00CC "> Faciliator for the in conversation with the Deans panel at the CoSS Connections event: University of Glasgow </span>
+###### January 2025
+
+Ending an exciting day of networking within the College of Social Sciences I facilitated a conversation between four of the colleges Deans.
+
+### <span style="color:#FF00CC "> Who counts?: Barriers to participation with the Scottish Budget and data representation: SHRC & SGSSS </span>
+###### December 2024
+
+Spotlight talk at an International Human Rights Day Event hosted by the SGSSS and SHRC. Presented on how my work surrounding Scotland's budget and the census both highlighst ways that Scotland is world leading while still having very far to go. 
+
+### <span style="color:#FF00CC "> The construction of Scotland’s LGBTQ+ population in the census : University of Starthclyde </span>
+###### December 2024
+
+Talked about how the Scottish 2022 census did and did not represent LGBTQ+ people at the Queer in A Wee Place book event. 
+
+### <span style="color:#FF00CC ">Queering Data Production: NCRM </span>
+###### June 2024  
+
+A short course ran over 4 half days aimed at reserach pratictoners and data users disscussing matters relating to sex, gender and sexuality survey data production and the queer production of data.
+
+
+### <span style="color:#FF00CC ">Queer Data Production: SGSSS </span>
+###### June 2024  
+
+A twice repeated 3 hour workshop for the SGSSS summer school
+
 ### <span style="color:#FF00CC "> Binary barriers: Representing trans & gender diverse populations in censuses & other population surveys: Mind the Gap Conference </span>
 ###### July 30th-31st 2022
 
