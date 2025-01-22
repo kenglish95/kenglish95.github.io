@@ -7,13 +7,13 @@ redirect_from:
   - /research/
   - /research.html
 ---
-I am currently undertaking my PhD in Sociology researching how differences of sex, gender and sexuality should be represented by UK population surveys. The research focuses on the perspectives of those currently overlooked in survey data. To achieve this a sequential mixed-methods research design is employed. This research is funded by the University of Glasgow’s College of Social Sciences (CoSS) Scholarship. 
+My PhD in Sociology researched how differences in terms of sex and gender should be represented by UK population surveys. The research focuses on the perspectives of those currently overlooked in survey data. To achieve this a sequential mixed-methods design was employed. I was funded by the University of Glasgow’s College of Social Sciences (CoSS) Scholarship. 
 
 ### Posts relating to my reserach:
 
 [T.E.M.P.S Question Design Standards](https://kenglish95.github.io/posts/2022/06/TEMPS)
 
-Introductory standars for designing survey questions on sex,gender and sexuality based on my research.
+Introductory standards for designing survey questions on sex,gender and sexuality based on my research.
 
 [`Survey: Representing differences of sex, gender and sexuality in UK population surveys`](https://kenglish95.github.io/posts/2021/06/survey)  
 The survey that features as part of the third and final strand of my research. Aimed at LGBTI+ people ages 16+ in the UK.
