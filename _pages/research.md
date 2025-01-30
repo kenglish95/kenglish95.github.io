@@ -20,7 +20,7 @@ English, K. K (pending pub) Binary barriers: Representing trans and gender diver
 
 English, K. K (pending pub) The construction of Scotland’s LGBTQ+ population in the census, in Queer in a Wee Place, Bloomsbury
 
-Boyle. K, Camps. D, English. K , Ferrie. J, Flegg. A & Mukherjee. G (2025) Access to Social Justice: Social Rights and the UK’s Access to Justice Gap, Bristol University Press
+Boyle. K, Camps. D, English. K , Ferrie. J.E, Flegg. A & Mukherjee. G (2025) [Access to Social Justice: Social Rights and the UK’s Access to Justice Gap](https://bristoluniversitypress.co.uk/access-to-social-justice), Bristol University Press
 
 English, K. K. (2024) [An overview of the risks and benefits of data representation for LGBTI+ people](https://eprints.gla.ac.uk/328859/) In: Webster, L. (ed.) Sage Research Methods: Diversifying and Decolonizing Research. SAGE Publications
 
@@ -28,7 +28,7 @@ Scottish Human Rights Commission (2024) [The Open Budget Survey results for Scot
 
 The Young Women's Movement (2023) [Status of Young Women in Scotland 2022-2023: Experiences of Accessing Health Care](https://youngwomenscot.org/wp-content/uploads/2024/04/SYWS22-23ExperiencesofAccessingHealthcare.pdf)
 
-Boyle. K, Camps. D, English. K & Ferrie. J (2022) [The Practitioner Perspective on Access to Justice for Social Rights: Addressing The Accountability Gap](https://www.nuffieldfoundation.org/wp-content/uploads/2019/11/Final-report-The-practitioner-perspective-on-access-to-justice-for-social-rights-1.pdf)
+Boyle. K, Camps. D, English. K & Ferrie. J.E (2022) [The Practitioner Perspective on Access to Justice for Social Rights: Addressing The Accountability Gap](https://www.nuffieldfoundation.org/wp-content/uploads/2019/11/Final-report-The-practitioner-perspective-on-access-to-justice-for-social-rights-1.pdf)
 
 Livingston. M, McArthur. D, Hong.J & English. K (2020) [Predicting cycling volumes using crowdsourced activity data](https://journals.sagepub.com/doi/full/10.1177/2399808320925822), Environment and Planning B: Urban Analytics and City Science 
 
