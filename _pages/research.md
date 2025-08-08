@@ -7,18 +7,20 @@ redirect_from:
   - /research/
   - /research.html
 ---
-My PhD in Sociology researched how differences in terms of sex and gender should be represented by UK population surveys. The research focuses on the perspectives of those currently overlooked in survey data. To achieve this a sequential mixed-methods design was employed. I was funded by the University of Glasgow’s College of Social Sciences (CoSS) Scholarship. 
+My PhD was in Sociology researched how differences in terms of sex and gender should be represented by UK population surveys. The research focuses on the perspectives of those currently overlooked in survey data. To achieve this a sequential mixed-methods design was employed. I was funded by the University of Glasgow’s College of Social Sciences (CoSS) Scholarship. 
 
 Supporter of the [Gender + Sexuality Data Lab](https://gensexdatalab.business-school.ed.ac.uk) based at the University of Edinbrugh
+
 ### Publications:
 
-English,K. K, Greenwood, S & Ferrie, J.E (pending approval) Ethical
+English,K. K, Greenwood, S & Ferrie, J.E (pending pub) Ethical
 knowledge production? Considering university methods teaching
 as integral to the feminist mission of disabilities studies
 
-English, K. K (pending pub) Binary barriers: Representing trans and gender diverse populations in censuses and other population surveys, in The International Handbook of Demography of Sexuality, second edition, Springer
-
 English, K. K (pending pub) The construction of Scotland’s LGBTQ+ population in the census, in Queer in a Wee Place, Bloomsbury
+
+English, K. K (2025) [Binary barriers: Representing trans and gender diverse populations in censuses and other population surveys](https://link.springer.com/content/pdf/10.1007/978-3-031-87911-1_10), in The International Handbook of Demography of Sexuality, second edition, Springer
+
 
 Boyle. K, Camps. D, English. K , Ferrie. J.E, Flegg. A & Mukherjee. G (2025) [Access to Social Justice: Social Rights and the UK’s Access to Justice Gap](https://bristoluniversitypress.co.uk/access-to-social-justice), Bristol University Press
 
