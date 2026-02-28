@@ -4,7 +4,6 @@ title: "Events"
 permalink: /events/
 author_profile: true
 ---
-
 ### [Visualising the UK’s LGBTQ+ population: Rainbow R]{style="color:#FF00CC "}
 
 ###### Feburary 2026
