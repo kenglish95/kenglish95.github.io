@@ -15,10 +15,9 @@ My primary role is that of a Quantitative Methods Lecturer based within Sociolog
 -	Guest Lecturer: Sociology 2B: Research Methods 
 -	Guest Lecturer: QM2: Analysing Your Social World 
 -	Tutor: Quantitative Data Analysis (PGT) 
--	Tutor: Transformations (PGT)
 
 -	Supervisor: Undergraduate Sociology dissertation x 2
--	Supervisor: Media, Culture and Society Project x 15 
+-	Supervisor: PGT Sociology Dissertations x 1
 
 
 # 2024-2025

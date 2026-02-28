@@ -9,7 +9,8 @@ redirect_from:
 ---
 My PhD was in Sociology researched how differences in terms of sex and gender should be represented by UK population surveys. The research focuses on the perspectives of those currently overlooked in survey data. To achieve this a sequential mixed-methods design was employed. I was funded by the University of Glasgow’s College of Social Sciences (CoSS) Scholarship. 
 
-Supporter of the [Gender + Sexuality Data Lab](https://gensexdatalab.business-school.ed.ac.uk) based at the University of Edinbrugh
+- Co-chair of the Glasgow Lab for Intersex, Non-binary and Trans Studies [(GLINTS)](https://www.gla.ac.uk/colleges/arts/research/artslab/ourlabs/glints/) based at the Univeristy of Glasgow. 
+- Supporter of the [Gender + Sexuality Data Lab](https://gensexdatalab.business-school.ed.ac.uk) based at the University of Edinbrugh
 
 ### Publications:
 
