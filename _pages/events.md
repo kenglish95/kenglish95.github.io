@@ -5,6 +5,7 @@ permalink: /events/
 author_profile: true
 
 ---
+
 ### International Journal of Human Rights Special Issue Away Day
 
 ###### May 2026
