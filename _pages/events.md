@@ -3,9 +3,7 @@ layout: archive
 title: "Events"
 permalink: /events/
 author_profile: true
-redirect_from: 
-  - /events/
-  - /events.html
+
 ---
 ### [Visualising the UK’s LGBTQ+ population: Rainbow R]{style="color:#FF00CC "}
 
