@@ -1,14 +1,12 @@
 ---
 permalink: /2025events/
 title: "2025 Events"
-excerpt: "This is a page not in th emain menu"
+excerpt: "This is a page not in the main menu"
 author_profile: true
 redirect_from: 
   - "/2025events/"
   - "/2025events.html"
 ---
-
-# [2025 Events]{style="color:#FF00CC "}
 
 ### [['Surveying Sex, Gender and Sexuality'](https://instats.org/seminar/surveying-sex-gender-and-sexuality): Instats]{style="color:#FF00CC "}
 
@@ -25,5 +23,3 @@ A short course ran over 4 half days aimed at research practitioners and data use
 ###### January 2025
 
 Ending an exciting day of networking within the College of Social Sciences I facilitated a conversation between four of the colleges Deans.
-
-
