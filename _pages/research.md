@@ -14,14 +14,17 @@ My PhD was in Sociology researched how differences in terms of sex and gender sh
 
 ### Publications:
 
+English, K.K, Humphrey, H (abstract accepted) Queers queering social research methods teaching as a form of resistance, Open Scholarship of Teaching and Learning Journal
+
+Ferrie, J.E, Pearson, P & English, K.K (abstract accepted)Data is a Human Rights Issue: Exploring Access, Accessibility and Accountability, International Journal of Human Rights 
+
 English,K. K, Greenwood, S & Ferrie, J.E (pending pub) Ethical
 knowledge production? Considering university methods teaching
 as integral to the feminist mission of disabilities studies
 
-English, K. K (pending pub) The construction of Scotland’s LGBTQ+ population in the census, in Queer in a Wee Place, Bloomsbury
+English, K. K (2026) [The construction of Scotland’s LGBTQ+ population in the census, in Queer in a Wee Place, Bloomsbury](https://strathprints.strath.ac.uk/95683/7/Taylor-Bloomsbury-2026-Queer-in-a-Wee-Place-Small-Nations-Sexuality-and-Scotland.pdf)
 
 English, K. K (2025) [Binary barriers: Representing trans and gender diverse populations in censuses and other population surveys](https://link.springer.com/content/pdf/10.1007/978-3-031-87911-1_10), in The International Handbook of Demography of Sexuality, second edition, Springer
-
 
 Boyle. K, Camps. D, English. K , Ferrie. J.E, Flegg. A & Mukherjee. G (2025) [Access to Social Justice: Social Rights and the UK’s Access to Justice Gap](https://bristoluniversitypress.co.uk/access-to-social-justice), Bristol University Press
 

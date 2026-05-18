@@ -5,8 +5,19 @@ permalink: /events/
 author_profile: true
 
 ---
-### [Visualising the UK’s LGBTQ+ population: Rainbow R]{style="color:#FF00CC "}
+### [International Journal of Human Rights Special Issue Away Day]{style="color:#FF00CC "}
 
+###### May 2026
+
+Spoke on the article I am co-authoring with Professor Jo Ferrie and Dr Paul Person on data as a human rights issue. 
+
+### [Reimagining Research Ethics: From Red Tape to Research Culture]{style="color:#FF00CC "}
+
+###### May 2026
+
+Helped facilitate a discussion surrounding reserach ethics. The section I facilitated focused on barriers to LGBTQ+ research relating to sexual health.
+
+### [Visualising the UK’s LGBTQ+ population: Rainbow R]{style="color:#FF00CC "}
 
 ###### Feburary 2026
 
