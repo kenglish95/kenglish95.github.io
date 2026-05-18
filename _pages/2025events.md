@@ -1,7 +1,6 @@
 ---
 permalink: /2025events/
 title: "2025 Events"
-excerpt: "This is a page not in the main menu"
 author_profile: true
 redirect_from: 
   - "/2025events/"
