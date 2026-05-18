@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "2025 Events"
-permalink: /events/
+permalink: /2025events/
 author_profile: true
 ---
 ### [Surveying Sex, Gender and Sexuality](https://instats.org/seminar/surveying-sex-gender-and-sexuality): Instats
